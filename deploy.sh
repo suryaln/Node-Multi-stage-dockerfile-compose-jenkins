@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 #deploying the container:
 docker-compose up -d
 
