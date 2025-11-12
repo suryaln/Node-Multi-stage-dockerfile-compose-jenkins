@@ -1,7 +1,7 @@
 #!/bin/bash 
 #deploying the container:
 docker-compose up -d
-
+   
 #tagging the image:
 docker tag nodejs:web suryaln/nodejs:web
 
