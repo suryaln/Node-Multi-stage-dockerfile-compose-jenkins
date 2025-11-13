@@ -1,5 +1,5 @@
 #!/bin/bash 
-#deploying the container:
+#deploying the container: 
 docker-compose up -d
    
 #tagging the image:
