@@ -6,5 +6,5 @@ docker-compose up -d
 docker tag nodejs:web suryaln/nodejs:web
 
 #pushing an image to dockerhub:
-#docker push suryaln/nodejs:web
+docker push suryaln/nodejs:web
 echo "the image has been pushed to docker hub"
