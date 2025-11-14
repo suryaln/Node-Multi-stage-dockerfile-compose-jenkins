@@ -5,8 +5,8 @@ services:
     container_name: node_application
     ports:
       - 80:80
-    volumes:
-      - nodejs-vol:/usr/share/nginx/html/
+ #   volumes:
+  #    - nodejs-vol:/usr/share/nginx/html/
 
 #volumes:
  # nodejs-vol:
