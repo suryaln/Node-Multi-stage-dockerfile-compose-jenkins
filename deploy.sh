@@ -7,4 +7,4 @@ docker tag nodejs:web suryaln/nodejs:web
 
 #pushing an image to dockerhub:
 #docker push suryaln/nodejs:web
-#echo "the image has been pushed to docker hub"
+echo "the image has been pushed to docker hub"
