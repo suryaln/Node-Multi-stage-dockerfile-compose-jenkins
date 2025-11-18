@@ -16,7 +16,7 @@ pipeline {
                 sh 'chmod +x deploy.sh'
             }
         }
-
+#jjj
         stage('Executing the File') {
             steps {
                 sh './build.sh'
